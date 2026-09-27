@@ -1,0 +1,31 @@
+FLUXO DO DINHEIRO — como publicar e instalar
+
+1. PUBLICAR (uma vez, grátis, no GitHub Pages)
+   a. Crie uma conta em github.com (se ainda não tiver).
+   b. Clique em "New repository". Nome: fluxo. Deixe "Public". Clique em "Create repository".
+   c. Na página do repositório, clique em "uploading an existing file".
+   d. Arraste TODO o conteúdo desta pasta (index.html, sw.js, manifest.webmanifest e as pastas icons e vendor).
+      Clique em "Commit changes".
+   e. Vá em Settings > Pages. Em "Branch", escolha "main" e "/ (root)". Clique em Save.
+   f. Espere 1 a 2 minutos. O endereço será: https://SEU-USUARIO.github.io/fluxo/
+   O repositório só guarda o código do app. Seus dados ficam nos seus aparelhos.
+
+2. INSTALAR
+   Computador: abra o endereço no Chrome ou Edge e clique no ícone de instalar na barra de endereço.
+   Android: abra no Chrome, menu (⋮) > Instalar app.
+   iPhone: abra no Safari, botão Compartilhar > Adicionar à Tela de Início.
+   (No iPhone, use sempre pelo ícone da tela inicial: os dados dele ficam separados do Safari.)
+
+3. PAREAR
+   No computador: toque em "Sincronizar" > "Mostrar código neste aparelho".
+   No celular: toque no botão de sincronizar (bolinha no topo) > "Ler código do outro aparelho" e aponte a câmera.
+   Se a câmera não funcionar, digite o código de 24 caracteres.
+
+4. USAR
+   Com o app aberto nos dois aparelhos, o que você registra em um aparece no outro.
+   Se um estiver fechado, as mudanças passam quando os dois estiverem abertos de novo.
+   Faça um backup de vez em quando: Sincronizar > Exportar arquivo.
+
+ATUALIZAR O APP
+   Suba os arquivos novos no mesmo repositório (substituindo os antigos).
+   A versão nova aparece na segunda vez que você abrir o app.
